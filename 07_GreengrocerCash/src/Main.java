@@ -21,11 +21,3 @@ public class Main {
         System.out.println("Toplam Tutar : " + total);
     }
 }
-
-/*
-Armut Kaç Kilo ? :0
-Elma Kaç Kilo ? :1
-Domates Kaç Kilo ? :1
-Muz Kaç Kilo ? :2
-Patlıcan Kaç Kilo ? :3
-Toplam Tutar : 21.68 TL */
